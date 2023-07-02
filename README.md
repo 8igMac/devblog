@@ -19,6 +19,7 @@ $ hugo server
   - [list page](https://blowfish.page/docs/content-examples/#list-pages) (like blog or projects), 
   - [taxnonomy page](https://blowfish.page/docs/content-examples/#taxonomy-pages) (like dictionary), I currently use list page for my blogsand project.
 - Content page: `content/../page-name.md` or bundle page (when you have image in your content) `content/../page-name/index.md`
+  - 以下兩個屬性會出現在你轉傳給人家的縮圖上: title, description
 
 ## Misc
 - Full documentation of the [Blowfish theme](https://blowfish.page/docs/). 

@@ -1,4 +1,4 @@
 ---
-title: "Home Page"
-description: "Tell people about this website."
+title: "Modi"
+description: "Hi! I'm Modi, Welcome to my blog."
 ---
