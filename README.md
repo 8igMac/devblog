@@ -10,6 +10,7 @@ $ hugo server
 - Publish site: Just push to GitHub and GitHub Action will handle the rest.
 
 ## Notes
+- Doc for cofiguring the params in `config/_default/params.toml`.
 - Main layout configuration file: `config/_default/params.toml`
   - Homepage layouts: [All the available layouts.](https://blowfish.page/docs/homepage-layout/). Create and edit `content/_index.md` if you want to customized contents on your home page.
   - Global article layouts. (You can have customized layout for each page.)
