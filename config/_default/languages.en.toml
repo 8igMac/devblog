@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Modi"
+title = "Modi 石"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "Modi"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Modi Shih"
+  name = "Modi 石"
   image = "img/author.png"
   headline = "An engineer and researcher."
   bio = "I'm Modi, an engineer and researcher. this is my bio."
