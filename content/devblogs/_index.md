@@ -1,6 +1,6 @@
 ---
 title: "Developer Blogs"
-description: "All the blog post related to development."
+description: "Modi's developer blog."
 ---
 
-I'm a engineer.
+Make it work. Make it right. Make it fast.
