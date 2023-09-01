@@ -18,11 +18,14 @@ $ hugo server
   - Add a new section in [config/\_default/menus.en.toml](config/_default/menus.en.toml).
   - Create a new directory in [content/](content/) for storing articles for the new section.
   - Create and edit `content/_index.md` if you want to customize content on your home page. (optional)
+  - Add your section to the `mainSection` list in [config/\_default/params.toml](config/_default/params.toml) so that `showRecent` can get it.
 - How to add a new post?
   - Create a directory in the section you choose.
   - Create a file named `index.md`.
   - Add a featured photo by naming it `featured.*` in the article directory (optional).
   - Note: 以下兩個屬性會出現在你轉傳給人家的縮圖上: title, description
+- How to add new image?
+  - Place the new image in [assets/img](./assets/img/) directory.
 - How to customize the theme?
   - Edit [config/\_default/params.toml](config/_default/params.toml).
   - Homepage layouts: [All the available layouts.](https://blowfish.page/docs/homepage-layout/).
