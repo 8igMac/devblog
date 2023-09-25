@@ -10,6 +10,12 @@ Welcome to [Modi's devblog](https://8igmac.github.io/devblog/)
 $ hugo server
 ```
 
+- If you update your site and the page is showing the old content, try disable the cache.
+
+```
+$  hugo serve --ignoreCache
+```
+
 - Publish site: Just push to GitHub and GitHub Action will handle the rest.
 
 ## Notes
