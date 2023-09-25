@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish"
-baseURL = "https://8igmac.github.io/devblog/"
+baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
