@@ -10,9 +10,9 @@ defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
-mainSections = ["life", "devblogs", "projects", "research"]
+mainSections = ["projects"]
 # robots = ""
 
 disableImageOptimization = true
@@ -37,8 +37,8 @@ disableImageOptimization = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 5
+  showRecent = false
+  showRecentItems = 6
   showMoreLink = false
   showMoreLinkDest = "/projects"
   cardView = true

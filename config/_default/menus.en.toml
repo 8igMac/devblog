@@ -11,24 +11,36 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Research"
- pageRef = "research"
- weight = 30
+ name = "About"
+ pageRef = "about"
+ weight = 1
 
 [[main]]
- name = "Dev Blogs"
- pageRef = "devblogs"
+ name = "Blog"
+ pageRef = "blog"
  weight = 10
 
 [[main]]
- name = "Projects"
- pageRef = "projects"
+ name = "Project"
+ pageRef = "project"
  weight = 20
 
 [[main]]
  name = "Life"
  pageRef = "life"
- weight = 40
+ weight = 30
+
+[[main]]
+ identifier = "github"
+ pre = "github"
+ url = "https://github.com/8igMac"
+ weight = 100
+
+[[main]]
+ identifier = "linkedin"
+ pre = "linkedin"
+ url = "https://www.linkedin.com/in/modi-shih/"
+ weight = 200
 
 #[[main]]
 #  name = "Parent"
