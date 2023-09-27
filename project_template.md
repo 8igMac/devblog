@@ -29,4 +29,3 @@ showHero: false
 ## 因為你的貢獻產生了什麼結果?
 
 ## References
-- [Full-privacy secured search engine empowered by efficient genome-mapping algorithms](https://arxiv.org/abs/2201.00696v2)
