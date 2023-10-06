@@ -12,6 +12,13 @@
   - Note: 以下兩個屬性會出現在你轉傳給人家的縮圖上: title, description
 - How to add new image?
   - Place the new image in [assets/img](./assets/img/) directory.
+  - (Optional) If you want caption.
+  ```html
+  <figure>
+    <img src="me2.png" alt="me" style="margin: 0 auto;">
+    <figcaption style="text-align: center;">caption</figcaption>
+  </figure>
+  ```
 - How to modify site's favicon?
   - Use [favicon.io](https://favicon.io/) to generate all the data needed and place them in [static](./static/) directory. (See [tutorial](https://blowfish.page/docs/partials/#favicons) for details.)
 - How to add logo for the site?
