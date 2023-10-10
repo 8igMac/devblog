@@ -3,7 +3,6 @@
 # https://blowfish.page/docs/getting-started/
 
 # theme = "blowfish"
-baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
